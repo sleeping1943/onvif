@@ -1,5 +1,5 @@
 
-﻿#自动扫描摄像头说明
+#自动扫描摄像头说明
  
 
 作者： sleeping
@@ -23,8 +23,7 @@
 ```
     然后会生成Makefile文件，执行make会在onvif-cmake/exe下生成libnzscand.so库文件和测试文件scand,执行scand即可
     
-
-    ***注:Debug版本可使用gdb调试，故体积较大***
+***注:Debug版本可使用gdb调试，故体积较大***
     
 
 ## Windows版本编译测试(默认为Release版本)
